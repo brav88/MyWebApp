@@ -59,7 +59,7 @@ public class ProductsServlet extends HttpServlet {
                         
             out.println("   <div class=\"list-group\">");    
             out.println("   <hr/>");    
-            out.println("   <a href=\"index.html\">Go back</a>");    
+            out.println("   <a href=\"index.html\">Go back...</a>");    
             out.println("</div>");            
             out.println("</body>");
             out.println("</html>");
